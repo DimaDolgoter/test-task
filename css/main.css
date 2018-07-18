@@ -45,6 +45,8 @@
 }
 body {
   background-image: url("../img/bg.png");
+    background-size: cover;
+    background-color: #041f31;
 }
 @media (max-width: 450px) {
   .nopad-on-small {
